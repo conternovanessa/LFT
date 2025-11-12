@@ -1,0 +1,15 @@
+/*input
+**/
+read[a_1,b_2];
+while(<> a_1 b_2)
+conditional[option (> a_1 b_2) do assign - a_1 b_2 to a_1]
+else assign - b_2 a_1 to b_2
+end;
+print[a_1,+(b_2,1,100),2023];
+
+
+
+assign 0 to ___a,d_2,_e;
+print[___a,d_2,_e];
+
+//fine

@@ -1,0 +1,4 @@
+assign 09 to d;
+print(*{d t});
+conditional option (> x y ) assign 0 to x else print (y);
+while(dog<=printread) assign dog+1 to dog;

@@ -1,0 +1,4 @@
+assign 10 to a1;
+read[b2];
+print [___a];
+read[221B_];
